@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: #DD1A1A;
+    position: relative;
+}
+.header_black {
+    width: 100%;
+    height: 35px;
+    background-color: #0C0C0C;
+    position: absolute;
+    bottom: 0;
+}
+.header_img {
+    position: relative;
+    width: 100px;
+    left: 45%;
+    transform: translateY(-50%);
+}
